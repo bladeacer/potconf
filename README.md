@@ -1,4 +1,7 @@
-## setup
+# potconf
+My configuration for self-hosting Penpot, a Figma alternative.
+
+## Setup
 
 Copy files in this repository to `/opt/penpot` with the proper file permissions.
 
@@ -37,3 +40,8 @@ sudo systemctl status penpot.service
 ```bash
 docker compose -f docker-compose.yaml pull
 ```
+
+## Penpot Desktop
+The Penpot Desktop app is recommended for better performance.
+
+[Head over here](https://github.com/author-more/penpot-desktop) for installation instructions.
