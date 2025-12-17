@@ -1,6 +1,8 @@
 # potconf
 My configuration for self-hosting Penpot, a Figma alternative.
 
+If you are seeing this on GitHub, development has moved over to [Codeberg](https://codeberg.org/bladeacer/potconf).
+
 ## Setup
 
 Copy files in this repository to `/opt/penpot` with the proper file permissions.
